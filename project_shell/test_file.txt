@@ -1,4 +1,0 @@
-cd ..
-ls
-sleep 2
-echo Finished!
